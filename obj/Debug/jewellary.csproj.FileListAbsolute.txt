@@ -1,0 +1,17 @@
+C:\Users\HP\OneDrive\Desktop\java\jewellary\jewellary\obj\Debug\jewellary.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\java\jewellary\jewellary\obj\Debug\jewellary.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Desktop\java\jewellary\jewellary\obj\Debug\jewellary.Form1.resources
+C:\Users\HP\OneDrive\Desktop\java\jewellary\jewellary\obj\Debug\jewellary.login.resources
+C:\Users\HP\OneDrive\Desktop\java\jewellary\jewellary\obj\Debug\jewellary.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\java\jewellary\jewellary\obj\Debug\jewellary.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\java\jewellary\jewellary\obj\Debug\jewellary.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\java\jewellary\jewellary\bin\Debug\jewellary.exe.config
+C:\Users\HP\OneDrive\Desktop\java\jewellary\jewellary\bin\Debug\jewellary.exe
+C:\Users\HP\OneDrive\Desktop\java\jewellary\jewellary\bin\Debug\jewellary.pdb
+C:\Users\HP\OneDrive\Desktop\java\jewellary\jewellary\obj\Debug\jewellary.exe
+C:\Users\HP\OneDrive\Desktop\java\jewellary\jewellary\obj\Debug\jewellary.pdb
+C:\Users\HP\OneDrive\Desktop\java\jewellary\jewellary\obj\Debug\jewellary.product.resources
+C:\Users\HP\OneDrive\Desktop\java\jewellary\jewellary\obj\Debug\jewellary.customer.resources
+C:\Users\HP\OneDrive\Desktop\java\jewellary\jewellary\obj\Debug\jewellary.temp.resources
+C:\Users\HP\OneDrive\Desktop\java\jewellary\jewellary\obj\Debug\jewellary.newcustomer.resources
+C:\Users\HP\OneDrive\Desktop\java\jewellary\jewellary\obj\Debug\jewellary.gallary.resources
